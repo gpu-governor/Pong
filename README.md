@@ -2,7 +2,7 @@
 an ascii pong game in C and ncurses for a youtube tutorial
 # How i Built the Pixel Editor ?
 [-] Check out my detailed youtube tutorial :
-https://youtu.be/hrLO8rs7asE?si=2YJy33tfpja5pSf-
+https://youtu.be/QAnEHDB4hII
 
 [-] You can also Download a pdf of the step by step guides of making the Game
 [Download Link](https://drive.google.com/file/d/1OgRrkxEf0sMFLyp71GMjFjEL1jUMTt5C/view?usp=drivesdk)
