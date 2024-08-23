@@ -1,6 +1,6 @@
 # Pong
 an ascii pong game in C and ncurses for a youtube tutorial
-# How i Built the Pixel Editor ?
+# How i Built Pong ?
 [-] Check out my detailed youtube tutorial :
 https://youtu.be/QAnEHDB4hII
 
